@@ -74,7 +74,7 @@ const Layout = () => {
                 >
                     <Stack horizontal verticalAlign="center">
                         <img
-                            src='assets/logo.jpg'
+                            src='../../../static/logo.jpg'
                             className={styles.headerIcon}
                             aria-hidden="true"
                         />
